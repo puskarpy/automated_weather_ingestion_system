@@ -3,3 +3,5 @@
 /.venv
 ./weather-api.ipynb
 *.ipynb
+__pycache__/
+*.pyc
