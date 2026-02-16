@@ -1,2 +1,5 @@
 .env
-/.ipynb_checkpoints
+.ipynb_checkpoints/
+/.venv
+./weather-api.ipynb
+*.ipynb
